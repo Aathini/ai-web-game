@@ -1,0 +1,15 @@
+#heading {
+    padding: 20px;
+    font-size: 25px;
+}
+body {
+    background-image: url("background.jpg");
+
+}
+.mario_image {
+    width: 100%;
+}
+#info_button {
+    float: right; 
+    font-size: 15px;
+}
